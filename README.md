@@ -52,7 +52,8 @@ The B magnitude plot and B streamlines are shown below.
 ![](./RadialArray_w_arc_magnets/Pictures/B_Streamline_Airbox.png)
 
 If you'd like to learn more about the numerical methods for electromagnetic force calculation, here are some recommended reads:
-1. F. Henrotte, K. Hameyer, Computation of Electromagnetic Force Densities: Maxwell Stress Tensor vs. Virtual Work Principle, vol. 168 (1-2), pp. 235-243, July 2004: <https://doi.org/10.1016/j.cam.2003.06.012>
-2. 
+1. F. Henrotte, K. Hameyer, Computation of Electromagnetic Force Densities: Maxwell Stress Tensor vs. Virtual Work Principle, vol. 168, no. 1-2, pp. 235-243, July 2004: <https://doi.org/10.1016/j.cam.2003.06.012>.
+2. F. Henrotte, G. Deliege, K. Hameyer, The Eggshell Approach for the Computation of Electromagnetic Forces in 2D and 3D, vol. 23, no. 4, pp. 996-1005, COMPEL, Jan. 2004:<https://doi.org/10.1108/03321640410553427>.
+3. F. Henrotte, C. Geuzaine, Electromagnetic Forces and Their Finite Element Computation, vol. 37, no. 5, Sept. 2024: <https://doi.org/10.1002/jnm.3290>.
 
 
