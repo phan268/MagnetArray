@@ -1,13 +1,13 @@
 # MagnetArray
 This repo is a collection of Maxwell models for different magnet arrays using Ansys Electronics Desktop native IronPython.
 
-## Radial Array with Rectangular Magnets
+## Example 1: Radial Array with Rectangular Magnets
 
 Simulation results when the number of magnets is set to 10 are shown below ![](./RadialArray_w_rectangluar_magnets/Pictures/Nmagnet_10.png)
 
 Similarly, the results when the number of magnets is set to 8 are shown below ![](./RadialArray_w_rectangluar_magnets/Pictures/Nmagnet_8.png)
 
-## Radial Array with Arc Magnets for Qi2 Wireless Charger Latching
+## Example 2: Radial Array with Arc Magnets
 
 There are four groups of magnets. Magnet1_Group consists of 16 thin arc magnets (arc = 21deg) placed in a radial pattern. Each magnet is parallel magnetized. Magnet2_Group has 8 arc magnets (arc = 360deg/8*0.9 = 40.5deg) and they are parallel magnetized too. Magnet3_Group and Magnet4_Group correspond to the inner ring and outer ring, respectively. They are magnetized along the z-direction.
 
