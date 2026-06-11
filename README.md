@@ -1,4 +1,5 @@
 # MagnetArray
+
 This repo is a collection of Maxwell models for different magnet arrays using Ansys Electronics Desktop native IronPython.
 
 ## Example 1: Radial Array with Rectangular Magnets
@@ -50,6 +51,12 @@ The B magnitude plot and B streamlines are shown below.
 
 ![](./RadialArray_w_arc_magnets/Pictures/MagB_Airbox.png)
 ![](./RadialArray_w_arc_magnets/Pictures/B_Streamline_Airbox.png)
+
+The B streamline when the **Magnet1_Group** and **Magnet2_Group + Magnet3_Group + Magnet4_Group** are not well aligned is shown below.
+
+![](./RadialArray_w_arc_magnets/Pictures/B_Streamline_Airbox_NotAligned.png)
+
+
 
 If you'd like to learn more about the numerical methods for electromagnetic force calculation, here are some recommended reads:
 1. F. Henrotte, K. Hameyer, Computation of Electromagnetic Force Densities: Maxwell Stress Tensor vs. Virtual Work Principle, vol. 168, no. 1-2, pp. 235-243, July 2004: <https://doi.org/10.1016/j.cam.2003.06.012>.
